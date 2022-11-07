@@ -74,3 +74,19 @@ To summarize, these six steps help you break down the data analysis process into
 Data analysts typicall work with six problem types:
 ![QJL2lG1VQxWS9pRtVTMVTw_6217c9fe51ec43f48f02dc4f42cc1d56_Screen-Shot-2020-12-09-at-10 17 12-PM](https://user-images.githubusercontent.com/81862069/200340549-d25cd4ca-b11e-4671-a6b4-a73322b0ec4d.png)
 **Note:** By now you might be wondering if there is a difference between categorizing things and identifying themes. The best way to think about it is: categorizing things involves assigning items to categories; identifying themes takes those categories a step further by grouping them into broader themes. (In a user study, user beliefs, practices, and needs are examples of themes.)
+
+## SMART Questions
+Avoid asking questions that
+- **Closed-ended question** => answer with yes/no.
+- **Vague and lacks context**
+- **Leading questions** => questions that only have a particular response e.g., this product is too expensive, isn't it?
+
+Try asking questions that SMART
+- **S (Specific)**
+- **M (Measurable)**
+- **A (Action-oriented)** => encourage change, bring you act on.
+- **R (Relevant)**
+- **T (Time-bound)** => specify time to be studied.
+<img width="810" alt="YFin0nVBQQyYp9J1QfEMPA_5938fab12a0e4b76a479cef2a8fb4af1_Screen-Shot-2021-06-24-at-1 23 25-PM" src="https://user-images.githubusercontent.com/81862069/200348905-718184cc-595b-4b5b-b6c6-65a20ae3b6e9.png">
+
+also Fairness or to be clear and make sense to everyone, not leading to bias.

@@ -67,3 +67,10 @@ To summarize, these six steps help you break down the data analysis process into
 2. Organizing available information.
 3. Revealing gaps and opportunities.
 4. Indentifying your options.
+
+---
+
+## Six Problem Types
+Data analysts typicall work with six problem types:
+![QJL2lG1VQxWS9pRtVTMVTw_6217c9fe51ec43f48f02dc4f42cc1d56_Screen-Shot-2020-12-09-at-10 17 12-PM](https://user-images.githubusercontent.com/81862069/200340549-d25cd4ca-b11e-4671-a6b4-a73322b0ec4d.png)
+**Note:** By now you might be wondering if there is a difference between categorizing things and identifying themes. The best way to think about it is: categorizing things involves assigning items to categories; identifying themes takes those categories a step further by grouping them into broader themes. (In a user study, user beliefs, practices, and needs are examples of themes.)

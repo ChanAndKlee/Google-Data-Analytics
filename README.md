@@ -1,4 +1,6 @@
 # Google Data Analytics Offered by Coursera and Google
+> This README File is written by Ariya Phengphon based on the learning lessons.  
+> **NOTE:** Review all lessons quickly by reading on the ```Module <module number>: <module name>``` on each chapter.
 
 ## Module 1: Foundations: Data, Data, Everywhere
 This is the first course in the Google Data Analytics Certificate. It gives a brief knowledge on the data, data analysts, and other components that is related to data such as skills that should have to become a data analyst and data analyst tool box.

@@ -27,7 +27,7 @@ As we learn the **6 Phases of Data Analysis**, this is the first step, Ask. To c
 
 ![3CybSa2UQhqsm0mtlBIaIw_ff8cf6066c4a410196171e7b36d703c4_DA_C1M1L2R1_B](https://user-images.githubusercontent.com/81862069/200183195-6c15a90a-0d29-470d-8817-7a6cfd21a145.png)
 ## Module 3: Prepare Data for Exploration
-After you know the problem clearly, the second step is Prepare data. This step involves **"How the data will be collected fairly?"**, knowing the **Data Structures & Formats**, and learn more on what is **Data Ethics**? until understand the data policy agreement.
+After you know the problem clearly, the second step is Prepare data. This step involves **"How the data will be collected fairly?"**, knowing the **Data Structures & Formats**, learn more on what is **Data Ethics**? until understand the data policy agreement, and how to secure your data.
 
 **Week 1:**
 - How to collect the data? (Interviews, Observations, Forms, Questionnaires, Surveys, Cookies)

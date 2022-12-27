@@ -44,7 +44,17 @@ After you know the problem clearly, the second step is Prepare data. This step i
 
 **Week 3:**
 - **Relational Database** (Primary/Foreign/Composite Key)
+- **Metadata** (Descriptive/Structural/Administrative)
+- **Naming Conventions**
+- Workshop on BigQuery (SQL)
 
+**Week 4:**
+- Organizing Data
+- Data Security (protecting data from unauthorized access by adopting safety measures)
+
+**Week 5:** (Optional)
+- Online Prescence
+- Networking
 
 ![lDcry8F7S323K8vBe7t9bg_66089daf263e4264b0a2178dba173448_DA_C1M1L2R1_C](https://user-images.githubusercontent.com/81862069/200183333-5c9abf21-219b-49b1-8f98-9c833776a503.png)
 ## Module 4: Process Data from Dirty to Clean

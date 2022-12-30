@@ -2,6 +2,22 @@
 > This README File is written by Ariya Phengphon based on the learning lessons.  
 > **NOTE:** Review all lessons quickly by reading on the ```Module <module number>: <module name>``` on each chapter.
 
+## Tools
+This is the list of tools that I have been using throughout this course:
+<table>
+  <tr>
+    <td>Google Sheets<br><img src="https://lh3.ggpht.com/e3oZddUHSC6EcnxC80rl_6HbY94sM63dn6KrEXJ-C4GIUN-t1XM0uYA_WUwyhbIHmVMH=w300" width="100" title="Google Sheets" /></td>
+    <td>BigQuery<br><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" width="100" title="BigQuery" /></td>
+  </tr>
+</table>
+    
+<a href="https://www.google.com/sheets/about/" target="_blank"><img width=80; display: inline-block; src="https://lh3.ggpht.com/e3oZddUHSC6EcnxC80rl_6HbY94sM63dn6KrEXJ-C4GIUN-t1XM0uYA_WUwyhbIHmVMH=w300"/><a>
+
+<a href="https://www.google.com/sheets/about/" target="_blank"><img width=80; display: inline-block;
+src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png"/><a>
+
+
+
 ## Module 1: Foundations: Data, Data, Everywhere
 This is the first course in the Google Data Analytics Certificate. It gives a brief knowledge on the data, data analysts, and other components that is related to data such as skills that should have to become a data analyst and data analyst tool box.
 
@@ -34,7 +50,7 @@ After you know the problem clearly, the second step is Prepare data. This step i
 - **Data Collection Considerations**
 - **Data Formats** (Structured/Unstructured, Discrete/Continuous, Qualitative/ Quantitative, Nominal/Ordinal, Primary/Secondary, Internal/External)
 - **Data Model** (on Structured data)
-- **Wide & Long Data Format**
+- **Wide & Long Data Format** (wide data format is preferred, more used)
 
 **Week 2:**
 - **4 Types of Data Bias** (Sampling, Observer/Experimenter/Research, Interpretation, Confirmation Bias)
@@ -58,6 +74,26 @@ After you know the problem clearly, the second step is Prepare data. This step i
 
 ![lDcry8F7S323K8vBe7t9bg_66089daf263e4264b0a2178dba173448_DA_C1M1L2R1_C](https://user-images.githubusercontent.com/81862069/200183333-5c9abf21-219b-49b1-8f98-9c833776a503.png)
 ## Module 4: Process Data from Dirty to Clean
+After you get the data, it's time to clean your data!, there are many several that has been used to clean the data, in this module will be covered Spreadsheets and SQL
+(to use which tool it depends on where data lives and size of data) Moreover, you will know what exactly "CLEAN DATA" is, what things that you might have to check? e.g., Whitespace, Length of text string, Reasonable values, No duplicated records, and so on.
+
+**Week 1:**
+- **Data Integrity** (accuracy, completeness, consistency, and trustworthiness of data)
+- **Types of Data Issues that may occur** (Duplicate, Insufficient)
+- **Types of Insufficient data** (from only 1 source, keeps updating, outdated, geographically-limited data)
+- **How to address/deal with with Insufficient data?** (have image)
+- Statistics terms (Margin error, Confidence level, Statistical significance)
+
+**Week 2:**
+- **Dirty data vs. Clean data**
+- **Types of Dirty data**
+- Data Merging (from two/more datasets into a single dataset)
+- ***Workshop on Spreadsheet*** (Cleaning data) such as Conditional Formatting, Remove duplicates, Trim whitespace, VLOOKUP()
+- Workflow automation
+
+**Week 3:**
+- Difference between cleaning data on Spreadsheet and SQL
+- ***Workshop on SQL*** (Cleaning data) such as CAST(), CONCAT(), COALESCE(), SUBSTR(), TRIM()
 
 ![sYq9TbgfTv2KvU24Hw79gg_da4f5051005e42779f15a718c3fbbedd_DA_C1M1L2R1_D](https://user-images.githubusercontent.com/81862069/200183464-71763311-5c7a-4f5c-9901-b37da55cb7b0.png)
 ## Module 5: Analyze Data to Answer Questions

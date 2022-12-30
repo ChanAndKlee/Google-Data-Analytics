@@ -6,16 +6,14 @@
 This is the list of tools that I have been using throughout this course:
 <table>
   <tr>
-    <td>Google Sheets<br><img src="https://lh3.ggpht.com/e3oZddUHSC6EcnxC80rl_6HbY94sM63dn6KrEXJ-C4GIUN-t1XM0uYA_WUwyhbIHmVMH=w300" width="100" title="Google Sheets" /></td>
-    <td>BigQuery<br><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" width="100" title="BigQuery" /></td>
+    <td>Google Sheets<br>
+      <a href="https://www.google.com/sheets/about/" target="_blank"><img src="https://lh3.ggpht.com/e3oZddUHSC6EcnxC80rl_6HbY94sM63dn6KrEXJ-C4GIUN-t1XM0uYA_WUwyhbIHmVMH=w300" width="100" title="Google Sheets" /></a>
+    </td>
+    <td>BigQuery<br>
+      <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj-1KjX7KH8AhUWMSsKHfQFCZEYABAAGgJzZg&ohost=www.google.com&cid=CAESauD2VYOapv4soay3aMYkp_5vBpNMJiw297ng5-WzwvLTB9INN7_JXX1TmijrjTMwS7Xl3NoDKpBiSO0IyNg7oOLs12rxU0bMZorsLI8CVwrAnjtlozcPOJbIVmo1kKcs0EbsEabIZHCOL_o&sig=AOD64_2VeZsZAMCW6MX036B183GOXmLUNg&q&adurl&ved=2ahUKEwiToKDX7KH8AhVO1XMBHb64DYgQ0Qx6BAgKEAE"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" width="100" title="BigQuery" /></a>
+     </td>
   </tr>
 </table>
-    
-<a href="https://www.google.com/sheets/about/" target="_blank"><img width=80; display: inline-block; src="https://lh3.ggpht.com/e3oZddUHSC6EcnxC80rl_6HbY94sM63dn6KrEXJ-C4GIUN-t1XM0uYA_WUwyhbIHmVMH=w300"/><a>
-
-<a href="https://www.google.com/sheets/about/" target="_blank"><img width=80; display: inline-block;
-src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png"/><a>
-
 
 
 ## Module 1: Foundations: Data, Data, Everywhere

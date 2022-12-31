@@ -9,7 +9,7 @@ This is the list of tools that I have been using throughout this course:
     <td>Google Sheets<br>
       <a href="https://www.google.com/sheets/about/" target="_blank"><img src="https://lh3.ggpht.com/e3oZddUHSC6EcnxC80rl_6HbY94sM63dn6KrEXJ-C4GIUN-t1XM0uYA_WUwyhbIHmVMH=w300" width="100" title="Google Sheets" /></a>
     </td>
-    <td>BigQuery<br>
+    <td>BigQuery (SQL)<br>
       <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj-1KjX7KH8AhUWMSsKHfQFCZEYABAAGgJzZg&ohost=www.google.com&cid=CAESauD2VYOapv4soay3aMYkp_5vBpNMJiw297ng5-WzwvLTB9INN7_JXX1TmijrjTMwS7Xl3NoDKpBiSO0IyNg7oOLs12rxU0bMZorsLI8CVwrAnjtlozcPOJbIVmo1kKcs0EbsEabIZHCOL_o&sig=AOD64_2VeZsZAMCW6MX036B183GOXmLUNg&q&adurl&ved=2ahUKEwiToKDX7KH8AhVO1XMBHb64DYgQ0Qx6BAgKEAE"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" width="100" title="BigQuery" /></a>
      </td>
   </tr>
@@ -73,7 +73,7 @@ After you know the problem clearly, the second step is Prepare data. This step i
 ![lDcry8F7S323K8vBe7t9bg_66089daf263e4264b0a2178dba173448_DA_C1M1L2R1_C](https://user-images.githubusercontent.com/81862069/200183333-5c9abf21-219b-49b1-8f98-9c833776a503.png)
 ## Module 4: Process Data from Dirty to Clean
 After you get the data, it's time to clean your data!, there are many several that has been used to clean the data, in this module will be covered Spreadsheets and SQL
-(to use which tool it depends on where data lives and size of data) Moreover, you will know what exactly "CLEAN DATA" is, what things that you might have to check? e.g., Whitespace, Length of text string, Reasonable values, No duplicated records, and so on.
+(to use which tool it depends on where data lives and size of data) Moreover, you will know what exactly "CLEAN DATA" is, what things that you might have to check? e.g., Whitespace, Length of text string, Reasonable values, No duplicated records, and so on. Then, the next step is the verficiation and reporting (documentation) about the changes involved in your data-cleaning effort. (It allows you to revert back to check/use this version, and also team to get on the same page)
 
 **Week 1:**
 - **Data Integrity** (accuracy, completeness, consistency, and trustworthiness of data)
@@ -91,7 +91,16 @@ After you get the data, it's time to clean your data!, there are many several th
 
 **Week 3:**
 - Difference between cleaning data on Spreadsheet and SQL
-- ***Workshop on SQL*** (Cleaning data) such as CAST(), CONCAT(), COALESCE(), SUBSTR(), TRIM()
+- ***Workshop on SQL*** (Cleaning data) such as CAST(), CONCAT(), COALESCE(), SUBSTR(), TRIM(). Other functions: CASE WHEN THEN, DISTINCT, COUNT() and many more
+
+**Week 4:**
+- **Verification** (confirm that a data-cleaning effort was well-executed and the data is accurate and reliable)
+- **Documentation** (tracking changes, additions, deletions, and errors involved in your data-cleaning effort e.g., doing Changelogs > concept like Version Control on Git)
+- Big Picture when verifying data-cleaning (Consider the Business problem, Goal, and Data)
+
+**Week 5:** (Optional)
+- Building your resume to become more objective and professional
+- **PAR technique** (Problem, Action, and Result) that should be used when explaing on experiences section
 
 ![sYq9TbgfTv2KvU24Hw79gg_da4f5051005e42779f15a718c3fbbedd_DA_C1M1L2R1_D](https://user-images.githubusercontent.com/81862069/200183464-71763311-5c7a-4f5c-9901-b37da55cb7b0.png)
 ## Module 5: Analyze Data to Answer Questions

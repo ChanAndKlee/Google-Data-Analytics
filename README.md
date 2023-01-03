@@ -104,6 +104,22 @@ After you get the data, it's time to clean your data!, there are many several th
 
 ![sYq9TbgfTv2KvU24Hw79gg_da4f5051005e42779f15a718c3fbbedd_DA_C1M1L2R1_D](https://user-images.githubusercontent.com/81862069/200183464-71763311-5c7a-4f5c-9901-b37da55cb7b0.png)
 ## Module 5: Analyze Data to Answer Questions
+This module is focusing on ***Analysis*** that will be covered Organize, Format and Adjust, Get input from others, Transform Data or **The 4 Phases of Analysis)
+(have more..)
+
+**Week 1:**
+- **The 4 Phases of Analysis** (Organize, Format and Adjust, Get input from others, Transform Data)
+- ***Workshop on Spreadsheet*** (Sort types e.g., Sort Sheet, Sort Range)
+- ***Workshop on SQL*** (SORT BY, WHERE Clause)
+
+**Week 2:**
+- (here)
+
+**Week 3:**
+
+
+**Week 4:**
+
 
 ![ioCuqp2VT6OArqqdlU-jdQ_30fd6216552a49ef85ffd629ae596f4c_DA_C1M1L2R1_E](https://user-images.githubusercontent.com/81862069/200183574-3dc9a0cc-9a49-40a7-a118-19efef330520.png)
 ## Module 6: Share Data Through the Art of Visualization

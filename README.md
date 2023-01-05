@@ -113,10 +113,13 @@ This module is focusing on ***Analysis*** that will be covered Organize, Format 
 - ***Workshop on SQL*** (SORT BY, WHERE Clause)
 
 **Week 2:**
-- (here)
+- ***Workshop on Spreadsheet*** (Typecast: CAST(), CONVERT() to convert unit, LEN(), LEFT(), RIGHT(), FIND())
+  - **Data Validation** (Dropdown lists, Checkboxes, Reject input, Conditional formatting)
+- ***Workshop on SQL*** (CONCAT(), CAST() to cast from one type to another)
+- Get support during analysis (e.g., when getting stuck)
 
 **Week 3:**
-
+- (here)
 
 **Week 4:**
 

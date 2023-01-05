@@ -119,7 +119,10 @@ This module is focusing on ***Analysis*** that will be covered Organize, Format 
 - Get support during analysis (e.g., when getting stuck)
 
 **Week 3:**
-- (here)
+- **Aggregation** (gathering many separate pieces into a whole) like Average, Min, Max, Sum
+- ***VLOOKUP()*** on Spreadsheet
+  - **Limitation of VLOOKUP** -> only looks the data to the right a match (reference key) is found (**FIXED BY:** using **INDEX()** or **MATCH()** instead)
+- ***Workshop on SQL*** (JOINS - Types of JOINS: INNER - LEFT - RIGHT - FULL OUTER, COUNT, COUNT DISTINCT, Subqueries/Nested query/Inner query/Inner select, HAVING, CASE)
 
 **Week 4:**
 

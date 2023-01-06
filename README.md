@@ -105,7 +105,7 @@ After you get the data, it's time to clean your data!, there are many several th
 ![sYq9TbgfTv2KvU24Hw79gg_da4f5051005e42779f15a718c3fbbedd_DA_C1M1L2R1_D](https://user-images.githubusercontent.com/81862069/200183464-71763311-5c7a-4f5c-9901-b37da55cb7b0.png)
 ## Module 5: Analyze Data to Answer Questions
 This module is focusing on ***Analysis*** that will be covered Organize, Format and Adjust, Get input from others, Transform Data or **The 4 Phases of Analysis)
-(have more..)
+It will be focusing on the workshop that let you play with some useful functions that frequently use on Spreadsheet and SQL as listed below. Moreover, to ensure that your analysis is reliable, it has **6 Types of Data Validation in Analyze Process** (Data Type, Range, Constraints, Consistency, Structure, Validation)
 
 **Week 1:**
 - **The 4 Phases of Analysis** (Organize, Format and Adjust, Get input from others, Transform Data)
@@ -125,7 +125,10 @@ This module is focusing on ***Analysis*** that will be covered Organize, Format 
 - ***Workshop on SQL*** (JOINS - Types of JOINS: INNER - LEFT - RIGHT - FULL OUTER, COUNT, COUNT DISTINCT, Subqueries/Nested query/Inner query/Inner select, HAVING, CASE)
 
 **Week 4:**
-
+- ***Workshop on Spreadsheet*** (Functions e.g., COUNTIF(), SUMIF(), SUMPRODUCT() multiply each record then sum it up, Pivot table)
+- ***Workshop on SQL*** (Functions e.g., GROUP BY(), EXTRACT() to extract a part from a given date/datetime)
+- **Types of Data Validation** (Data Type, Range, COnstraints, Consistency, Structure, Validation)
+- ***Temporary table on SQL*** (WITH Clause, CREATE TABLE, CREATE TEMP TABLE, SELECT * INTO)
 
 ![ioCuqp2VT6OArqqdlU-jdQ_30fd6216552a49ef85ffd629ae596f4c_DA_C1M1L2R1_E](https://user-images.githubusercontent.com/81862069/200183574-3dc9a0cc-9a49-40a7-a118-19efef330520.png)
 ## Module 6: Share Data Through the Art of Visualization

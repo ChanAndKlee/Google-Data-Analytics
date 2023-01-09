@@ -132,10 +132,17 @@ It will be focusing on the workshop that let you play with some useful functions
 
 ![ioCuqp2VT6OArqqdlU-jdQ_30fd6216552a49ef85ffd629ae596f4c_DA_C1M1L2R1_E](https://user-images.githubusercontent.com/81862069/200183574-3dc9a0cc-9a49-40a7-a118-19efef330520.png)
 ## Module 6: Share Data Through the Art of Visualization
-
-
-## Module 7: Data Analysis with R Programming
+**Week 1:**
+- Data Visualization
+- **What makes a good visualization? (ISGV: Information, Story, Goal, Visual form by McCandless)**
+- Kaiser Fungs Junk charts Traidecta Checkup (help consumers critique what they are consuming from viz)
+- **Pre-attentive attributes** (Marks, Channels)
+- **Correlation vs. Causation** _!!Correlation does not cause Causation!!_
+- **Types of Graphs/Charts** and how to decide what to choose for each data (Bar, Line, Pie, Maps, Histogram, Correlation charts, Scatterplot, Decision tree, more..)
 
 
 ![rWF6jetqTPiheo3rapz48w_cd4afb997b9d449a89223dab279f8f09_DA_C1M1L2R1_F](https://user-images.githubusercontent.com/81862069/200183644-91bfc433-505b-455c-bd06-46b0d159c54a.png)
+## Module 7: Data Analysis with R Programming
+
+
 ## Module 8: Google Data Analytics Capstone: Complete a Case Study

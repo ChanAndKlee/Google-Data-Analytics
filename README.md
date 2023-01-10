@@ -139,7 +139,16 @@ It will be focusing on the workshop that let you play with some useful functions
 - **Pre-attentive attributes** (Marks, Channels)
 - **Correlation vs. Causation** _!!Correlation does not cause Causation!!_
 - **Types of Graphs/Charts** and how to decide what to choose for each data (Bar, Line, Pie, Maps, Histogram, Correlation charts, Scatterplot, Decision tree, more..)
+- The elements of art (Line, Share, Color, Space, Movement)
+- 9 Basic Principles of Design (Balance, Emphasis, Movement, Pattern, Repetition, Proportion, Rhythm, Variety, Unity)
+- Elements of Effective Visuals
+- **Design Thinking** (to solve complex problems in a user-centric way)
+  - **5 Phases of the Design Process** (Emphatize, Define, Ideate, Prototype, Test)
+- Additional elements that pleasing users' eyes: Heading, Subtitle, Legend, Label, Annotation
+- **Designing Chart in 60 min** (Prep, Talk & Listen, Sketch & Design, Prototype & Improve)
 
+**Week 2:**
+- (tbc)
 
 ![rWF6jetqTPiheo3rapz48w_cd4afb997b9d449a89223dab279f8f09_DA_C1M1L2R1_F](https://user-images.githubusercontent.com/81862069/200183644-91bfc433-505b-455c-bd06-46b0d159c54a.png)
 ## Module 7: Data Analysis with R Programming

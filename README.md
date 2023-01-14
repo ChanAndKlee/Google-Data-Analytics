@@ -12,7 +12,7 @@ This is the list of tools that I have been using throughout this course:
     <td>BigQuery (SQL)<br>
       <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj-1KjX7KH8AhUWMSsKHfQFCZEYABAAGgJzZg&ohost=www.google.com&cid=CAESauD2VYOapv4soay3aMYkp_5vBpNMJiw297ng5-WzwvLTB9INN7_JXX1TmijrjTMwS7Xl3NoDKpBiSO0IyNg7oOLs12rxU0bMZorsLI8CVwrAnjtlozcPOJbIVmo1kKcs0EbsEabIZHCOL_o&sig=AOD64_2VeZsZAMCW6MX036B183GOXmLUNg&q&adurl&ved=2ahUKEwiToKDX7KH8AhVO1XMBHb64DYgQ0Qx6BAgKEAE"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" width="100" title="BigQuery" /></a>
      </td>
-    <td>BigQuery (SQL)<br>
+    <td>Tableau<br>
       <a href="https://www.tableau.com/"><img src="http://dev3lop.com/wp-content/uploads/2017/04/tableau-logo-server-8-qualified.png" width="120" title="BigQuery" /></a>
      </td>
   </tr>

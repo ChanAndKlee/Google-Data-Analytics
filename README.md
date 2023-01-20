@@ -159,6 +159,12 @@ It will be focusing on the workshop that let you play with some useful functions
 - **Data Storytelling** (meaning of a dataset with visuals)
 - **3 Steps of Data Storytelling steps** (Engange your audience, Create compelling visuals, Tell the story in an interesting narrative)
 - Live & Static Dashboards
+- Data Sotrytelling tips (Characteristics, Settings, Plot, Big reveal, Aha moment)
+
+**Week 4:**
+- Data Presentation
+- College test
+- Questions that audience might come up to ask
 
 ![rWF6jetqTPiheo3rapz48w_cd4afb997b9d449a89223dab279f8f09_DA_C1M1L2R1_F](https://user-images.githubusercontent.com/81862069/200183644-91bfc433-505b-455c-bd06-46b0d159c54a.png)
 ## Module 7: Data Analysis with R Programming

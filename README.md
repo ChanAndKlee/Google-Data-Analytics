@@ -165,9 +165,3 @@ It will be focusing on the workshop that let you play with some useful functions
 - Data Presentation
 - College test
 - Questions that audience might come up to ask
-
-![rWF6jetqTPiheo3rapz48w_cd4afb997b9d449a89223dab279f8f09_DA_C1M1L2R1_F](https://user-images.githubusercontent.com/81862069/200183644-91bfc433-505b-455c-bd06-46b0d159c54a.png)
-## Module 7: Data Analysis with R Programming
-
-
-## Module 8: Google Data Analytics Capstone: Complete a Case Study
